@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blood Pressure</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="normal">Normal</string>
+    <string name="elevated">Elevated</string>
+    <string name="high_pressure">High Blood Pressure (Stage 1)</string>
+    <string name="high_pressure2">High Blood Pressure (Stage 2)</string>
+    <string name="hypertensivecrisis">Hypertensivecrisis</string>
+    <string name="systole">Systole</string>
+    <string name="diastole">Diastole</string>
+</resources>

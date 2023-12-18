@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidTemplate" parent="Theme.Material3.DynamicColors.Light">
+        <item name="colorPrimary">@color/overlay_light_primary</item>
+        <item name="colorOnPrimary">@color/overlay_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/overlay_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/overlay_light_onPrimaryContainer</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/main_color</item>
+        <item name="android:navigationBarColor">@color/secondary_color</item>
+        <item name="android:windowLightStatusBar" >true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+
+    <style name="Theme.AndroidTemplate" parent="Base.Theme.AndroidTemplate" />
+
+</resources>
